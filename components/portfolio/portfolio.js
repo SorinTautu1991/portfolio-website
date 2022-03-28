@@ -200,7 +200,7 @@ const Portfolio = () => {
               component="img"
               width="300"
               height="200"
-              image="/images/DESIGN.PNG"
+              image="/images/design.png"
               alt="DESIGN WEBSITE"
             />
             <CardContent>
